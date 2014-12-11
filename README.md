@@ -1,4 +1,4 @@
-### Java (GUI/non-GUI) programs for renumbering latex equations, Netbeans projects
+### Java (GUI/non-GUI) programs for renumbering latex equations
 
-Same functionality as [https://github.com/vsoftco/pytexnumber](py[2/3]texnumber)
+Same functionality as [pytexnumber](https://github.com/vsoftco/pytexnumber). Netbeans projects.
 
