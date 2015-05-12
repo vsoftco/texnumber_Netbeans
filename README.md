@@ -1,4 +1,4 @@
-### Java programs for renumbering latex equations
+### Java programs for renumbering latex references
 
 #### GTexnumber - GUI version
 #### Texnumber - console version
